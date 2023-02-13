@@ -47,7 +47,7 @@ public class Linkedlist {
             if(name.equals(rootnode.name))
             {
                 rootnode=temp.nextNode;
-                break;
+                temp=null;
             }
             else if(name.equals(temp.name))
             {
