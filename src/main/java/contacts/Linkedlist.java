@@ -1,5 +1,4 @@
 package contacts;
-import java.util.*;
 import java.util.logging.Logger;
 public class Linkedlist {
 	Logger l=Logger.getLogger("hi");
